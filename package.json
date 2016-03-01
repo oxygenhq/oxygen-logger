@@ -1,0 +1,22 @@
+{
+  "name": "oxygen-logger",
+  "version": "0.0.1",
+  "description": "Logger module for Oxygen",
+  "private": true,
+  "main": "./lib/logger.js",
+  "preferGlobal": "true",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cloudbeat/oxygen-logger.git"
+  },
+  "author": "https://github.com/oxygenhq/oxygen-logger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cloudbeat/oxygen-logger/issues"
+  },
+  "dependencies": {
+    "npmlog": "^2.0.2",
+    "winston": "^2.1.1",
+    "date-utils": "^1.2.18"
+  }
+}
