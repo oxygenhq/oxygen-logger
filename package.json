@@ -1,6 +1,6 @@
 {
   "name": "oxygen-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Logger module for Oxygen",
   "private": true,
   "main": "./lib/logger.js",
