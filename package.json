@@ -15,9 +15,9 @@
     "url": "https://github.com/cloudbeat/oxygen-logger/issues"
   },
   "dependencies": {
-    "npmlog": "^2.0.2",
+    "npmlog": "4.0.0",
     "winston": "git+https://github.com/oxygenhq/winston.git",
-	"winston-logstash": "^0.2.11",
-    "date-utils": "^1.2.18"
+	"winston-logstash": "0.3.0",
+    "date-utils": "1.2.21"
   }
 }
