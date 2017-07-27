@@ -2,7 +2,6 @@
   "name": "oxygen-logger",
   "version": "0.1.0",
   "description": "Logger module for Oxygen",
-  "private": true,
   "main": "./lib/logger.js",
   "preferGlobal": "true",
   "repository": {
