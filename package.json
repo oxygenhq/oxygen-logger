@@ -6,12 +6,12 @@
   "preferGlobal": "true",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cloudbeat/oxygen-logger.git"
+    "url": "git://github.com/oxygenhq/oxygen-logger.git"
   },
   "author": "https://github.com/oxygenhq/oxygen-logger",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/cloudbeat/oxygen-logger/issues"
+    "url": "https://github.com/oxygenhq/oxygen-logger/issues"
   },
   "dependencies": {
     "npmlog": "4.1.2",
