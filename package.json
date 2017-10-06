@@ -15,8 +15,8 @@
   },
   "dependencies": {
     "npmlog": "4.1.2",
-    "winston": "2.3.1",
-	"winston-logstash": "0.3.0",
+    "winston": "2.4.0",
+    "winston-logstash": "0.3.0",
     "date-utils": "1.2.21"
   }
 }
