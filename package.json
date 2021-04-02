@@ -1,6 +1,6 @@
 {
-  "name": "oxygen-logger",
-  "version": "0.5.0",
+  "name": "@oxygenhq/logger",
+  "version": "0.5.1",
   "description": "Logger module for Oxygen",
   "main": "./lib/logger.js",
   "preferGlobal": "true",
@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "npmlog": "4.1.2",
-    "winston": "2.4.4",
+    "winston": "2.4.5",
     "date-utils": "1.2.21"
   }
 }
